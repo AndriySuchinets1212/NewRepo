@@ -7,4 +7,9 @@ body {
 
 h1 {
     text-align: center;
+    color: red;
+}
+p{
+    background-color: yellow;
+    text-align: justify;
 }
