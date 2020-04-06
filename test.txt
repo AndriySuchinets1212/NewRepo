@@ -17,7 +17,6 @@
     </p>
     <h2>Test paragraph1</h2>
     <h3>Test paragraph2</h3>
-    <h2>Test paragraph3</h2>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png">
 </body>
 </html>
